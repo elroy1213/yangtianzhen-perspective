@@ -1,0 +1,25 @@
+# 版权敏感：原始素材不上传
+references/sources/
+
+# 02-conversations.md 包含 50 集播客原文聚合（7.8MB），版权敏感
+references/research/02-conversations.md
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.log
+*.tmp
+
+# OCR 临时文件
+/tmp/
